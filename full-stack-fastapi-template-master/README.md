@@ -27,15 +27,15 @@
 
 ### Dashboard - Admin
 
-[![API docs](img/dashboard.png)](https://github.com/jahnvichaudhary/Fullstack-FastAPI-python-stack.git)
+[![API docs](img/dashboard.png)] (https://github.com/jahnvichaudhary/Fullstack-FastAPI-python-stack.git)
 
 ### Dashboard - Items
 
-[![API docs](img/dashboard-items.png)](https://github.com/jahnvichaudhary/Fullstack-FastAPI-python-stack.git)
+[![API docs](img/dashboard-items.png)] (https://github.com/jahnvichaudhary/Fullstack-FastAPI-python-stack.git)
 
 ### Dashboard - Dark Mode
 
-[![API docs](img/dashboard-dark.png)](https://github.com/jahnvichaudhary/Fullstack-FastAPI-python-stack.git)
+[![API docs](img/dashboard-dark.png)] (https://github.com/jahnvichaudhary/Fullstack-FastAPI-python-stack.git)
 
 ### Interactive API Documentation
 
